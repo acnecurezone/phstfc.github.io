@@ -9,12 +9,4 @@
         <loc>http://localhost:4000/articles/stay-short-u1</loc>
     </url>
     
-    <url>
-        <loc>http://localhost:4000/articles/sample-link-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/articles/sample-post</loc>
-    </url>
-    
 </urlset>
