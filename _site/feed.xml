@@ -4,13 +4,38 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.phstfc.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.phstfc.com" />
-<updated>2013-11-03T21:26:25-07:00</updated>
+<updated>2013-11-10T17:58:00-07:00</updated>
 <id>http://blog.phstfc.com/</id>
 <author>
   <name>Luke Aslanian</name>
   <uri>http://blog.phstfc.com/</uri>
   <email>phstfc@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Up More Than 300% (Meeting 2)]]></title>
+  <link>http://blog.phstfc.com/articles/up-more-than-300p-u2</link>
+  <id>http://blog.phstfc.com/articles/up-more-than-300p-u2</id>
+  <updated>2013-11-10T00:00:00-00:00</updated>
+  <published>2013-11-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Luke Aslanian</name>
+    <uri>http://blog.phstfc.com</uri>
+    <email>phstfc@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;For those who didn’t make it to our last meeting, most of the meeting was listening and watching Mary from thinkorswim do a run through of the thinkorswim platform. We also talked about futures in a little more depth.&lt;/p&gt;
+
+&lt;p&gt;The following is an excerpt from a conversation with someone about what futures they would best short (with real money) long term, for which I basically just calculated these numbers:&lt;/p&gt;
+
+&lt;p&gt;It’s obvious that overtime a short market futures position would make money in the next few years, but we can’t say when. I kind of thought the market would start to meaningfully drop before now. Anyways though, the options we have for major market futures are /ES, /NQ, /TF, and /YM. I think it would be safer to maybe short two of those. Those are up 265%, 323%, 321%, and 243% respectively from their lows in 2009. So, I suppose I would short /NQ and /TF. I think it might also be important to see the comparison from their pre-recession highs to our (just last week) highs in this market, but that would take a while. &lt;/p&gt;
+
+&lt;p&gt;Ok so the results were $55,050, $46,430, $75,640, and $46,225 respectively (per future) for the earlier list. That makes the /ES and /TF the biggest movers as far ass effect in account goes in this bull market. However, these markets and futures get “rebalanced” ever so often so that could mess up these number a little but they should be basically correct- it’s obvious that the /TF is the greatest gainer in that sense, followed by either the /NQ or the /ES.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://blog.phstfc.com/articles/up-more-than-300p-u2&quot;&gt;Up More Than 300% (Meeting 2)&lt;/a&gt; was originally published by Luke Aslanian at &lt;a href=&quot;http://blog.phstfc.com&quot;&gt;PHS TFC&lt;/a&gt; on November 10, 2013.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -25,7 +50,7 @@
     <uri>http://blog.phstfc.com</uri>
     <email>phstfc@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Most importantly, all of you have twice the money you are currently using. It may sound complicated, but just notice that if you pull up “more” in the very bottom right of the thinkorswim app and then click on “Accounts,” there are two accounts: one called Margin and one called IRA. All of the trades you have made so far have been in your Margin account. So either click on IRA, make some trades, and then go back to “all accounts” later or simply switch the account in the actuall trade view.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Most importantly, all of you have twice the money you are currently using. It may sound complicated, but just notice that if you pull up “more” in the very bottom right of the thinkorswim app and then click on “Accounts,” there are two accounts: one called Margin and one called IRA. All of the trades you have made so far have been in your Margin account. So either click on IRA, make some trades, and then go back to “all accounts” later or simply switch the account in the actual trade view.&lt;/p&gt;
 
 &lt;p&gt;Also, for everyone who didn’t know or realize it, here’s some important info: one point on the /ES is worth $50 dollars in your account, $25 on the /NQ, and $100 on the /TF. Really, most if not all futures (you can tell by the / in front like /ES) make a certain amount of money per point (e.g. if the /ES goes from $1699 to $1700, you make $50 per future your long). I good way to see all the futures is to go to the Tastytrade Futures watchlist (Quotes&amp;gt;Top Left “Watchlists”&amp;gt;Public&amp;gt;Tastytrade Futures).&lt;/p&gt;
 
@@ -39,7 +64,7 @@
 
 &lt;p&gt;That is from an email a week or two ago, but just please realize that I am saying “stay Short” mainly because the market is at an all time high (last Wednesday really), and we have a lot of room to fall. I can’t say when, but it’s really inevitable. Anyways, our next meeting is planned for this Wednesday (the sixth). I hope to see you there!&lt;/p&gt;
 
-&lt;p&gt;Feel free to leave comments here, as I want it to act almost like a group text inbetween meetings.&lt;/p&gt;
+&lt;p&gt;Feel free to leave comments here, as I want it to act almost like a group text in between meetings.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://blog.phstfc.com/articles/stay-short-u1&quot;&gt;Stay Short (Update 1)&lt;/a&gt; was originally published by Luke Aslanian at &lt;a href=&quot;http://blog.phstfc.com&quot;&gt;PHS TFC&lt;/a&gt; on November 03, 2013.&lt;/p&gt;</content>
 </entry>
