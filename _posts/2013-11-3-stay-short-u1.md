@@ -2,7 +2,7 @@
 layout: post
 title: Stay Short (Update 1)
 description: "All time high last Wednesday. And, you have twice the money you have been using."
-modified: 2013-05-31
+modified: 2013-11-03
 category: articles
 tags: [sample post]
 comments: true  
